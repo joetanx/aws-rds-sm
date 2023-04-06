@@ -1,6 +1,6 @@
 ## 1. Python + boto3 on EC2: connection to RDS using Secrets Manager
 
-Prepare python packages:
+### 1.1. Prepare python packages:
 
 ```console
 yum -y install python3-pip
