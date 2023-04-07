@@ -1,8 +1,10 @@
-## RDS + Secrets Manager usage example with:
+## AWS RDS + Secrets Manager usage example with:
 
 - AJAX client
 - API Gateway
 - Lambda (Node.js)
+
+![image](https://user-images.githubusercontent.com/90442032/230517946-4bf43487-97c6-475d-bbb5-7868ee18ea2c.png)
 
 **PLUS:** Examples for using RDS + Secrets Manager with EC2
 
